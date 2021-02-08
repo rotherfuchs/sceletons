@@ -1,0 +1,9 @@
+{
+	"source_paths": ["/tmp/feed1","/tmp/feed2"],
+	"mysql": {
+	    "host": "localhost",
+	    "user": "filedaemon",
+	    "password": "filedaemon1",
+	    "db": "filedaemon"
+	}
+}
