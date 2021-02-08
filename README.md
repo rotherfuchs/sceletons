@@ -1,1 +1,1 @@
-# sceletons
+# A collection of Python Sceletons
